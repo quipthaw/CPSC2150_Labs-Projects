@@ -1,0 +1,14 @@
+---
+:id: 97772142
+:submitters:
+- :name: Harrison Cahmon Tun
+  :email: htun@clemson.edu
+- :name: Manning Cole Graham
+  :email: mcgraha@clemson.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-11-02 20:19:41.457341000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-11-02 13:19:41.457341000 Z
+:status: processed
+:score: 98.0
